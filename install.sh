@@ -52,7 +52,7 @@ echo "Downloading the workflow..."
 # Let's assume you uploaded "Rephrase with AI.workflow.zip" to your repo.
 
 # Download the zip file
-curl -sL "https://github.com/devglyph1/mac-ai-rephraser/raw/main/Rephrase%20with%20AI.workflow.zip" -o "$HOME/Downloads/rephrase.zip"
+curl -sL "https://github.com/devglyph1/mac-ai-rephraser/raw/main/Rephrase%20with%20AI.zip" -o "$HOME/Downloads/rephrase.zip"
 
 # Unzip it to the Services directory
 echo "Installing to $SERVICES_DIR..."
