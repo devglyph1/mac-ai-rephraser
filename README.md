@@ -18,4 +18,4 @@ This tool requires [Homebrew](https://brew.sh/) to install the `jq` dependency (
 Open your **Terminal** app, paste the following command, and press Enter:
 
 ```bash
-/bin/bash -c "$(curl -fsSL [https://raw.githubusercontent.com/devglyph1/mac-ai-rephraser/main/install.sh](https://raw.githubusercontent.com/devglyph1/mac-ai-rephraser/main/install.sh))"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/devglyph1/mac-ai-rephraser/main/install.sh)"
