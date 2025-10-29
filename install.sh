@@ -53,7 +53,7 @@ WORKFLOWS=(
     "Rephrase%20with%20AI.zip|Rephrase with AI"
     "Open%20Datadog.zip|Open Datadog"
     "Open%20Grafana.zip|Open Grafana"
-    "Open%20Chatgpt.zip|Open Chatgpt"
+    "Query%20Chatgpt.zip|Open Chatgpt"
 )
 
 REPO_BASE_URL="https://github.com/devglyph1/mac-ai-rephraser/raw/main"
